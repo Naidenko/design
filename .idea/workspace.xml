@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0201cb10-d023-487d-a188-f276b97136c6" name="Default Changelist" comment="" />
+    <list default="true" id="0201cb10-d023-487d-a188-f276b97136c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MullerLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MullerThin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MullerUltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MyriadPro.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-background-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-background-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-background-tablet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/feedback-background-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/feedback-background-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/feedback-background-tablet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer-logo-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-background-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-background-table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-container-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-container-tablet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-logo-desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-logo-table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/design-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-logo-mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-image-mobile-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/reviews-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/reviews-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,47 +56,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1341212280">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="1" />
-          <entry key="svg" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="SVG" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="4302" />
-          <entry key="svg" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="4302" />
-          <entry key="SVG" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#path#0;n#svg#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#0;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#1;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#circle#0;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#0;n#svg#2;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#0;n#svg#3;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cat/source/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30481">
+              <caret line="1793" column="22" selection-start-line="1793" selection-start-column="22" selection-end-line="1793" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,29 +109,85 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addit</find>
+      <find>image</find>
+      <find>portfoli</find>
+      <find>2x</find>
+      <find>slider</find>
+      <find>%</find>
+      <find>max</find>
+      <find>abs</find>
+      <find>1200</find>
+      <find>he</find>
+      <find>page-header__te</find>
+      <find>stage</find>
+      <find>rev</find>
+      <find>&lt;&gt;</find>
+      <find>owl-d</find>
+      <find>menu</find>
+      <find>owl</find>
+      <find>dot</find>
+      <find>item.im</find>
+      <find>logo</find>
+      <find>reviews__author-picture</find>
+      <find>act</find>
+      <find>modal-</find>
+      <find>data</find>
+      <find>filters__fo</find>
+      <find>portfolio__it</find>
+      <find>prett</find>
+      <find>0</find>
+      <find>консу</find>
+      <find>svg4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/img/logo.svg" />
+        <option value="$APPLICATION_HOME_DIR$/bin/webstorm64.exe.vmoptions" />
+        <option value="$USER_HOME$/Downloads/b47d9065841adbb95bc1254f4e045571.svg" />
+        <option value="$PROJECT_DIR$/img/vk.svg" />
+        <option value="$PROJECT_DIR$/img/instagram.svg" />
+        <option value="$PROJECT_DIR$/img/facebook.svg" />
+        <option value="$PROJECT_DIR$/../cat/source/index.html" />
+        <option value="$USER_HOME$/Downloads/arrow-down_icon-icons.com_72377.svg" />
+        <option value="$USER_HOME$/Downloads/arrow-down_icon-icons.com_72377 (1).svg" />
+        <option value="$PROJECT_DIR$/../cat/source/css/style.css" />
+        <option value="$PROJECT_DIR$/js/menu.js" />
+        <option value="$PROJECT_DIR$/img/arrow-down.svg" />
+        <option value="$PROJECT_DIR$/img/arrow-right.svg" />
+        <option value="$USER_HOME$/Downloads/phone-receiver (1).svg" />
+        <option value="$PROJECT_DIR$/owlCarouse/dist/assets/owl.carousel.css" />
+        <option value="$PROJECT_DIR$/js/services.js" />
+        <option value="$PROJECT_DIR$/../cat/source/js/popup.js" />
+        <option value="$PROJECT_DIR$/js/popup.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/filter.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-141" />
+    <option name="y" value="285" />
     <option name="width" value="1938" />
     <option name="height" value="1029" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -100,7 +203,7 @@
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,9 +215,11 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cat/source/css/style.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,65 +243,284 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544124828594</updated>
-      <workItem from="1544124830117" duration="14172000" />
+      <workItem from="1544124830117" duration="15463000" />
+      <workItem from="1544199462225" duration="62000" />
+      <workItem from="1544199949647" duration="83000" />
+      <workItem from="1544200054445" duration="98000" />
+      <workItem from="1544200196195" duration="20000" />
+      <workItem from="1544200235578" duration="32755000" />
+      <workItem from="1544446820922" duration="1546000" />
+      <workItem from="1544461554448" duration="39791000" />
+      <workItem from="1544634051046" duration="15473000" />
+      <workItem from="1545148482798" duration="23024000" />
+      <workItem from="1545233891178" duration="31845000" />
+      <workItem from="1545406545762" duration="11325000" />
+      <workItem from="1546017868330" duration="1500000" />
+      <workItem from="1546029829791" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14172000" />
+    <option name="totallyTimeSpent" value="173031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24880762" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24801272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24801272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/003-vk.svg">
+    <entry file="file://$PROJECT_DIR$/img/003-vk.svg" />
+    <entry file="file://$PROJECT_DIR$/img/logo copy.svg" />
+    <entry file="file://$PROJECT_DIR$/img/logo co.svg" />
+    <entry file="file://$PROJECT_DIR$/img/SVG/Asset 1.svg" />
+    <entry file="file://$PROJECT_DIR$/img/SVG/Asset 2.svg" />
+    <entry file="file://$PROJECT_DIR$/img/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/../cat/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/webstorm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/b47d9065841adbb95bc1254f4e045571.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/logo copy.svg">
+    <entry file="file://$USER_HOME$/Downloads/vk-social-network-logo (1).svg" />
+    <entry file="file://$USER_HOME$/Downloads/vk-social-network-logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/logo co.svg">
+    <entry file="file://$USER_HOME$/Downloads/instagram-logo (1).svg" />
+    <entry file="file://$USER_HOME$/Downloads/facebook (1).svg" />
+    <entry file="file://$USER_HOME$/Downloads/facebook.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/SVG/Asset 1.svg">
+    <entry file="file://$PROJECT_DIR$/img/vk.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/SVG/Asset 2.svg">
+    <entry file="file://$PROJECT_DIR$/img/instagram.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/logo.svg">
+    <entry file="file://$PROJECT_DIR$/img/facebook.svg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/arrow-down_icon-icons.com_72377.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/arrow-down_icon-icons.com_72377 (1).svg" />
+    <entry file="file://$USER_HOME$/Downloads/triangle-shape_icon-icons.com_53860.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/triangle-shape_icon-icons.com_53860 (1).svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/js/toggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/header-container-mobile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrow-down.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrow-right.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/phone-receiver (1).svg" />
+    <entry file="file://$USER_HOME$/Downloads/phone-receiver.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/design-desktop.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/about-background-desktop.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/owlCarouse/dist/assets/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/owlCarouse/dist/assets/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="97" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/owlCarouse/dist/assets/owl.theme.default.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/js/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17360">
+          <caret line="1052" column="1" selection-start-line="1052" selection-start-column="1" selection-end-line="1052" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/less/blocks/modal-checkout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/less/blocks/modal.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1233">
+          <caret line="589" column="33" selection-start-line="589" selection-start-column="33" selection-end-line="589" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="57" column="91" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/js/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="469" column="22" selection-start-line="469" selection-start-column="22" selection-end-line="469" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/js/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30481">
+          <caret line="1793" column="22" selection-start-line="1793" selection-start-column="22" selection-end-line="1793" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cat/source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#path#0;n#svg#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#circle#0;n#svg#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#2;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#3;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
